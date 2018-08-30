@@ -1,0 +1,9 @@
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\bin\Debug\serialApp.exe.config
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\bin\Debug\serialApp.exe
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\bin\Debug\serialApp.pdb
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\obj\Debug\serialApp.csprojResolveAssemblyReference.cache
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\obj\Debug\serialApp.Form1.resources
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\obj\Debug\serialApp.Properties.Resources.resources
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\obj\Debug\serialApp.csproj.GenerateResource.Cache
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\obj\Debug\serialApp.exe
+c:\users\auus\documents\visual studio 2015\Projects\serialApp\serialApp\obj\Debug\serialApp.pdb
